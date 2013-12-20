@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EL-NINO</Machine>
+    <WindowsUser>zsmahi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A601CED45A95621B8A29FE30754864EA6CB748E9E8119DF8AE27119F223D63F8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ffbb91d3-8ba9-45d4-a276-8f0b9a1422f7_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ffbb91d3-8ba9-45d4-a276-8f0b9a1422f7_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ffbb91d3-8ba9-45d4-a276-8f0b9a1422f7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-20T16:13:46.446</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\bin\Debug\Ekhbesh.exe">
+      <PackagePath>Ekhbesh.exe</PackagePath>
+      <Modified>2013-12-20T16:13:45.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\bin\Debug\Ekhbesh.pdb">
+      <PackagePath>Ekhbesh.pdb</PackagePath>
+      <Modified>2013-12-20T16:13:45.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-06T10:18:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-06T10:18:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-06T10:18:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-06-06T10:18:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\Ekhbesh_background.jpg">
+      <PackagePath>Ekhbesh_background.jpg</PackagePath>
+      <Modified>2013-12-20T12:56:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-20T12:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-27T04:25:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-12-20T13:22:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\zsmahi\Desktop\smh\Ekhbesh\Ekhbesh\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-20T16:13:46.113</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
