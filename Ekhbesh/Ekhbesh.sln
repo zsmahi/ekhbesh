@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		Examen.cs = Examen.cs
 		Filiere.cs = Filiere.cs
+		filieres.xml = filieres.xml
 		Matiere.cs = Matiere.cs
 		Planning.cs = Planning.cs
 		PlanningHebdomadaire.cs = PlanningHebdomadaire.cs
@@ -15,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		PlanningQuotidien.cs = PlanningQuotidien.cs
 		Profil.cs = Profil.cs
 		Programme.cs = Programme.cs
+		users.xml = users.xml
 	EndProjectSection
 EndProject
 Global

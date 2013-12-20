@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user id="1">
+    <username></username>
+    <password></password>
+    <dateOfBirth></dateOfBirth>
+    <gender></gender>
+    <filiere id="1"></filiere>
+  </user>
+</users>
+  
